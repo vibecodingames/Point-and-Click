@@ -1,0 +1,8 @@
+{
+  "name": "hero",
+  "sprite": "charfront.png",
+  "position": {
+    "x": 100,
+    "y": 450
+  }
+}
